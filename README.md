@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mziyuu
-- 👀 I’m interested in omputervision
+- 👀 I’m interested in computervision
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mziyu0813@google.com
